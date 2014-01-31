@@ -2,9 +2,13 @@
 	margin-width:1080px;
 	margin: 0 auto;
 }
-img{
-float: right;
 
+.left{
+	float: left;
+}
+
+.right{
+	float: right;
 }
 
 
